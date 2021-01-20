@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joel
 #### I'm Joel from UK, but currently based in Germany.
-![I'm Joel from UK, but currently based in Germany.](https://photos.app.goo.gl/PyUTVcvqKkYkBqgD9)
+![I'm Joel from UK, but currently based in Germany.](https://twitter.com/jjw2237/header_photo)
 
 I have recently completed my Master's in Mechanical Engineering, and am using this GitHub page to collaborate on and publish small coding projects, as I develop my programming skills.  
 
