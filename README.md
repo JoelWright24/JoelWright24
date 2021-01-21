@@ -4,7 +4,7 @@
 
 I have recently completed my Master's in Mechanical Engineering, and am using this GitHub page to collaborate on and publish small coding projects, as I develop my programming skills.  
 
-Skills: PYTHON / MATLAB / SIMULINK / C++
+Skills: PYTHON / MATLAB / SIMULINK / CFD / OPENFOAM / C++
 
 - 🔭 I’m currently working on developing my python programming skills 
 - 🌱 I’m currently learning German (the real language) and Python 
