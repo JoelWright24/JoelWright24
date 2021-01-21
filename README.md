@@ -8,7 +8,7 @@ Skills: PYTHON / MATLAB / SIMULINK / CFD / OPENFOAM / C++
 
 - 🔭 I’m currently working on developing my python programming skills 
 - 🌱 I’m currently learning German (the real language) and Python 
-- 💬 Ask me about Openfoam and CFD 
+- 💬 Ask me about my research in OpenFOAM and CFD 
 - ⚡ Fun fact: Germans are good people.  
 
 
